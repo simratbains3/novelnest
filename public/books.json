@@ -1,0 +1,75 @@
+[
+    {
+      "title": "To Kill a Mockingbird",
+      "cover_photo_url": "https://example.com/to_kill_a_mockingbird.jpg",
+      "author": "Harper Lee",
+      "rating": 4.5
+    },
+    {
+      "title": "1984",
+      "cover_photo_url": "https://example.com/1984.jpg",
+      "author": "George Orwell",
+      "rating": 3
+    },
+    {
+      "title": "The Great Gatsby",
+      "cover_photo_url": "https://example.com/the_great_gatsby.jpg",
+      "author": "F. Scott Fitzgerald",
+      "rating": 4.7
+    },
+    {
+      "title": "To the Lighthouse",
+      "cover_photo_url": "https://example.com/to_the_lighthouse.jpg",
+      "author": "Virginia Woolf",
+      "rating": 4.2
+    },
+    {
+      "title": "Pride and Prejudice",
+      "cover_photo_url": "https://example.com/pride_and_prejudice.jpg",
+      "author": "Jane Austen",
+      "rating": 4.6
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "cover_photo_url": "https://example.com/the_catcher_in_the_rye.jpg",
+      "author": "J.D. Salinger",
+      "rating": 4.4
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "cover_photo_url": "https://example.com/to_kill_a_mockingbird.jpg",
+      "author": "Harper Lee",
+      "rating": 4.5
+    },
+    {
+      "title": "1984",
+      "cover_photo_url": "https://example.com/1984.jpg",
+      "author": "George Orwell",
+      "rating": 4.3
+    },
+    {
+      "title": "The Great Gatsby",
+      "cover_photo_url": "https://example.com/the_great_gatsby.jpg",
+      "author": "F. Scott Fitzgerald",
+      "rating": 4.7
+    },
+    {
+      "title": "To the Lighthouse",
+      "cover_photo_url": "https://example.com/to_the_lighthouse.jpg",
+      "author": "Virginia Woolf",
+      "rating": 4.2
+    },
+    {
+      "title": "Pride and Prejudice",
+      "cover_photo_url": "https://example.com/pride_and_prejudice.jpg",
+      "author": "Jane Austen",
+      "rating": 4.6
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "cover_photo_url": "https://example.com/the_catcher_in_the_rye.jpg",
+      "author": "J.D. Salinger",
+      "rating": 4.4
+    }
+  ]
+  
