@@ -57,18 +57,18 @@ function BookRecommendation() {
   }, [genre]);
 
   return (
-    <div>
+    <div className='container'>
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '20px' }}>
         <input
           type="text"
           value={genre}
           onChange={handleGenreChange}
           placeholder="Enter genre"
-          style={{ flex: 1, padding: '10px', marginRight: '10px', borderRadius: '5px', border: '1px solid #ccc' }}
+          style={{ flex: 1, padding: '10px', marginRight: '10px', borderRadius: '5px', border: '1px solid #000' }}
         />
         <button 
           onClick={fetchRecommendations} 
-          style={{ cursor: 'pointer', padding: '10px 20px', borderRadius: '5px', backgroundColor: '#007bff', color: '#fff', border: 'none' }}
+          style={{ cursor: 'pointer', padding: '10px 20px', borderRadius: '5px', backgroundColor: '#000000', color: '#fff', border: 'none' }}
         >
           Search
         </button>
