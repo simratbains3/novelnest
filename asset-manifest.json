@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/novelnest/static/css/main.e6c13ad2.css",
-    "main.js": "/novelnest/static/js/main.1c69a840.js",
+    "main.css": "/novelnest/static/css/main.c196ea49.css",
+    "main.js": "/novelnest/static/js/main.22b9c9c9.js",
     "static/js/453.fb827df4.chunk.js": "/novelnest/static/js/453.fb827df4.chunk.js",
     "index.html": "/novelnest/index.html",
-    "main.e6c13ad2.css.map": "/novelnest/static/css/main.e6c13ad2.css.map",
-    "main.1c69a840.js.map": "/novelnest/static/js/main.1c69a840.js.map",
+    "main.c196ea49.css.map": "/novelnest/static/css/main.c196ea49.css.map",
+    "main.22b9c9c9.js.map": "/novelnest/static/js/main.22b9c9c9.js.map",
     "453.fb827df4.chunk.js.map": "/novelnest/static/js/453.fb827df4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.1c69a840.js"
+    "static/css/main.c196ea49.css",
+    "static/js/main.22b9c9c9.js"
   ]
 }
